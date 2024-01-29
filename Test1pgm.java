@@ -1,6 +1,6 @@
 package TestPackage;
 
-public class Test3 {
+public class Test1pgm {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

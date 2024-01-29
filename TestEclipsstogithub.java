@@ -1,6 +1,6 @@
 package TestPackage;
 
-public class Test1 {
+public class TestEclipsstogithub {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
